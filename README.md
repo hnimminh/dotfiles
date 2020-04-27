@@ -18,3 +18,4 @@
 * https://github.com/passcod/tmux-powerline/blob/master/README.md
 * https://github.com/seebi/tmux-colors-solarized
 * https://github.com/arcticicestudio/nord-tmux
+8 tmux cheatsheet https://tmuxcheatsheet.com/
