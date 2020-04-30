@@ -20,3 +20,11 @@
 * https://github.com/arcticicestudio/nord-tmux
 * tmux cheatsheet https://tmuxcheatsheet.com/
 * https://devhints.io/tmux
+* https://github.com/powerline/fonts
+* https://github.com/tmux-plugins
+* https://github.com/tmux-plugins/tpm
+
+
+## Teminnal 
+* https://www.fossmint.com/alternative-terminal-apps-for-macos/
+* https://hyper.is/plugins?newest
