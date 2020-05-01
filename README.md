@@ -12,6 +12,7 @@
 * https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 * https://github.com/gpakosz/.tmux
 * http://peterforgacs.github.io/2017/04/25/Tmux/
+* https://github.com/webpro/awesome-dotfiles/blob/master/README.md
 
 ## tmux-theme
 * https://github.com/powerline/powerline
