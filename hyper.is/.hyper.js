@@ -143,7 +143,7 @@ module.exports = {
     // PERSONIFY UI
     //copyOnSelect: true,
     verminal: {
-      fontSize: 15
+      fontSize: 14
     },
   },
 
