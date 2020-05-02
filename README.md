@@ -31,3 +31,14 @@
 ## Teminnal 
 * https://www.fossmint.com/alternative-terminal-apps-for-macos/
 * https://hyper.is/plugins?newest
+
+
+## OMF
+* https://github.com/oh-my-fish/oh-my-fish#dotfiles
+* https://github.com/oh-my-fish/theme-bobthefish
+* https://eshlox.net/2018/04/22/macos-fish-virtualfish-oh-my-fish-nerd-fonts-bobthefish-theme
+* https://github.com/ryanoasis/nerd-fonts
+
+* https://nanxiao.me/en/fix-permission-denied-rb_file_s_symlink-error-of-installing-homebrew/
+* https://denbeke.be/blog/mac/configure-fish-with-bobthefish-and-nerd-fonts-on-mac/
+* https://github.com/ryanoasis/powerline-extra-symbols

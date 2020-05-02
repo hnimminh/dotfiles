@@ -13,7 +13,6 @@ module.exports = {
 
     // font family with optional fallbacks
     fontFamily: 'Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
-    //PowerlineSymbols, "Terminess Powerline", "Anonymice Powerline", "Roboto Mono for Powerline", "Meslo LG S for Powerline",
 
     // default font weight: 'normal' or 'bold'
     fontWeight: 'normal',
@@ -37,7 +36,7 @@ module.exports = {
     cursorShape: 'BLOCK',
 
     // set to `true` (without backticks and without quotes) for blinking cursor
-    cursorBlink: false,
+    cursorBlink: true,
 
     // color of the text
     foregroundColor: '#fff',
@@ -143,6 +142,7 @@ module.exports = {
     // PERSONIFY UI
     //copyOnSelect: true,
     verminal: {
+      fontFamily: '"Hack Nerd Font", Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
       fontSize: 14
     },
   },
