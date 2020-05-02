@@ -14,11 +14,7 @@ A customization of development environment.
 ### terminal theme
 * https://github.com/Mayccoll/Gogh
 
-### vi/vim/neovim
-* vi-tiny installed by default.
-* install vim neovim
-
-### tmux
+### TMUX
 * https://github.com/thxph/dotfiles
 * https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 * https://github.com/gpakosz/.tmux
@@ -49,3 +45,12 @@ A customization of development environment.
 * https://github.com/ryanoasis/nerd-fonts
 * https://nanxiao.me/en/fix-permission-denied-rb_file_s_symlink-error-of-installing-homebrew/
 * https://denbeke.be/blog/mac/configure-fish-with-bobthefish-and-nerd-fonts-on-mac/
+
+### VIM
+* vi-tiny installed by default, install vim neovim
+* http://www.keyxl.com/aaa8263/290/VIM-keyboard-shortcuts.htm
+* https://gist.github.com/simonista/8703722
+* https://dougblack.io/words/a-good-vimrc.html#fold
+* https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/
+* https://www.techrepublic.com/blog/linux-and-open-source/create-custom-keybindings-in-vim/
+* https://github.com/rafi/awesome-vim-colorschemes
