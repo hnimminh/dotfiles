@@ -2,6 +2,7 @@
 A customization of development environment.
 
 ## INTRO
+![dotfiles-screenshot](https://user-images.githubusercontent.com/58973699/80859336-2f96aa00-8c8a-11ea-93f7-780e3be8117a.jpg)
 
 ## INTALLATION
 
