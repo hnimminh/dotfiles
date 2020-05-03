@@ -18,3 +18,22 @@ set -g theme_use_abbreviated_branch_name yes
 #
 set -g theme_title_use_abbreviated_path yes
 set -g theme_display_ruby no
+#
+#
+#
+####### ALIAS
+alias svi='sudo vi'
+alias untar='tar -zxvf'
+alias c='clear'
+alias mkdir="mkdir -pv"
+alias www='python -m SimpleHTTPServer 8080'
+alias cpv='rsync -ah --info=progress2'
+#
+alias cd1="cd .."
+alias cd2="cd ../.."
+alias cd3="cd ../../.."
+alias cd4="cd ../../../.."
+alias cd5="cd ../../../../.."
+#
+alias h="history"
+alias hg="history | grep"
