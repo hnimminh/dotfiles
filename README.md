@@ -1,4 +1,4 @@
-# PERSONIFY DEV ENVIROMENT
+# PERSONIFY DEV ENVIRONMENT
 A customization of development environment.
 
 ## INTRO
