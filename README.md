@@ -15,11 +15,11 @@ A customization of development environment.
 * https://github.com/Mayccoll/Gogh
 
 ### TMUX
-* https://github.com/thxph/dotfiles
 * https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 * https://github.com/gpakosz/.tmux
 * http://peterforgacs.github.io/2017/04/25/Tmux/
 * https://github.com/webpro/awesome-dotfiles/blob/master/README.md
+* https://github.com/thxph/dotfiles
 * https://github.com/powerline/powerline
 * https://github.com/passcod/tmux-powerline/blob/master/README.md
 * https://github.com/seebi/tmux-colors-solarized
