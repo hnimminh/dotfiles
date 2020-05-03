@@ -38,7 +38,8 @@ A customization of development environment.
 * https://www.fossmint.com/alternative-terminal-apps-for-macos/
 * https://hyper.is/plugins?newest
 
-### OMF
+### FISH
+* https://fishshell.com/docs/current/faq.html
 * https://github.com/oh-my-fish/oh-my-fish#dotfiles
 * https://github.com/oh-my-fish/theme-bobthefish
 * https://eshlox.net/2018/04/22/macos-fish-virtualfish-oh-my-fish-nerd-fonts-bobthefish-theme
