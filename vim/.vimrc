@@ -26,8 +26,10 @@ set ignorecase                      " ignore case when searching
 set smartcase                       " automatically switch search to case-sensitive when search query contains an uppercase letter.
 
                                     " MOVEMENT KEY MAP
-imap <C-e> <esc>$i<right>           " map CTRL-E to end-of-line (insert mode)
-imap <C-a> <esc>0i                  " map CTRL-A to beginning-of-line (insert mode)
+                                    " map CTRL-E to end-of-line (insert mode)
+imap <C-e> <esc>$i<right>
+                                    " map CTRL-A to beginning-of-line (insert mode)
+imap <C-a> <esc>0i
                                     
                                     " COPY | CUT | PASTE KEY MAP
 vmap <C-c> y                        " CTRL-C to copy (visual mode)
