@@ -27,8 +27,8 @@ alias svi='sudo vi'
 alias untar='tar -zxvf'
 alias c='clear'
 alias mkdir="mkdir -pv"
-alias www='python -m SimpleHTTPServer 8080'
-alias cpv='rsync -ah --info=progress2'
+alias http='python3 -m http.server 8080 --bind 127.0.0.1' # python -m SimpleHTTPServer 8080'
+alias rcp='rsync -ah --info=progress2'
 #
 alias cd1="cd .."
 alias cd2="cd ../.."
