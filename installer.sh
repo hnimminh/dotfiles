@@ -8,9 +8,9 @@
 sudo apt-get install -y wget curl tmux fish python3 python3-dev python3-pip gdebi net-tools
 #
 # hyper.is 
-#sudo wget -c https://releases.hyper.is/download/deb -O hyper-latest.deb
-#sudo gdebi -y hyper-latest.deb
-#sudo rm -f hyper-latest.deb
+sudo wget -c https://releases.hyper.is/download/deb -O hyper-latest.deb
+sudo gdebi -y hyper-latest.deb
+sudo rm -f hyper-latest.deb
 # nerd font
 sudo apt-get install -y fonts-hack-ttf
 sudo wget -c https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip -O Hack.zip
