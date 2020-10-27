@@ -1,6 +1,12 @@
 #!/bin/bash
+############################################################
+# Use Ansible Inventory as an ssh configuration file.
+#
+# Prerequisite:  jq & ansible
+# Author: Minh Minh 
+# Origin Author: Selivanov Pavel/Olivier Bilodeau
+############################################################
 
-# Set this to false to disable printing configuration variables before connecting
 debug=true
 
 for program in ansible-config ansible-inventory jq; do
@@ -22,11 +28,6 @@ if [ $# -eq 0 ]; then
     echo "Using -i before the hostname passes the -i INVENTORY argument to ansible-inventory to retrieve the host."
     echo
     echo "Avaliable hosts:"
-    # jq magic: https://stedolan.github.io/jq/manual/
-    # .[] array/object value iterator
-    # | combines two filters feeding output of left one into input of right one
-    # .hosts? produces content of hosts key, no error if it does not exist
-    # .[]? array/object value iterator, no error if output of . is not array or object (for example, it is null)
     ansible-inventory $inventory_arg --list | jq '.[] | .hosts? | .[]? ' | sort | uniq
     exit 1
 fi
