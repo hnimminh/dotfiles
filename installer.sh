@@ -38,6 +38,7 @@ sudo rm -rf ~/.config/Hyper/.hyper.js
 # fish configuration
 ln -snf ~/dotfiles/config/fish/config.fish ~/.config/fish/config.fish
 ln -snf ~/dotfiles/config/fish/fish_variables ~/.config/fish/fish_variables
+rm -rf ~/.config/fish/functions
 ln -snf ~/dotfiles/config/fish/functions ~/.config/fish/functions
 #
 # bash
