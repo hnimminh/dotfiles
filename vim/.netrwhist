@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/Users/minh/codespace/backend-developer-challenge/.git'
-let g:netrw_dirhist_6='/Users/minh/codespace/ym-sip-proxy/deployment/ansible/inventory/staging'
-let g:netrw_dirhist_5='/Users/minh/codespace/ym-sip-proxy/deployment/ansible/inventory'
-let g:netrw_dirhist_4='/Users/minh/codespace/ym-sip-proxy/deployment/ansible'
-let g:netrw_dirhist_3='/Users/minh/codespace/ym-sip-proxy/deployment/ansible/inventory/staging'
-let g:netrw_dirhist_2='/Users/minh/codespace/ym-sip-proxy/deployment/ansible/inventory'
-let g:netrw_dirhist_1='/Users/minh/codespace/ym-sip-proxy/deployment/ansible'
