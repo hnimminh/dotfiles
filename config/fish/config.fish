@@ -36,6 +36,8 @@ alias cd3="cd ../../.."
 alias cd4="cd ../../../.."
 alias cd5="cd ../../../../.."
 #
+codespace="cd ~/codespace"
+
 alias h="history"
 alias hg="history | grep"
 #
