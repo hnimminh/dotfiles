@@ -37,7 +37,8 @@ alias cd4="cd ../../../.."
 alias cd5="cd ../../../../.."
 #
 alias codespace="cd ~/codespace"
-
+# 
+alias k=kubectl
 alias h="history"
 alias hg="history | grep"
 #
