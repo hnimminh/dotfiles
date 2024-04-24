@@ -8,7 +8,7 @@ set -g default_user your_normal_user
 # DATETIME
 set -g theme_display_date yes
 set -g theme_date_format "+ %H:%M:%S %Z %d-%m" 
-set -g theme_date_timezone Asia/Ho_Chi_Minh
+set -g theme_date_timezone UTC #Asia/Ho_Chi_Minh #
 # GIT SETTING 
 set -g theme_display_git yes
 #
